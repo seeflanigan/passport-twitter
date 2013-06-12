@@ -1,7 +1,7 @@
 # Passport-Twitter
 
 [Passport](http://passportjs.org/) strategy for authenticating with [Twitter](http://twitter.com/)
-using the OAuth 1.0a API.
+using the OAuth 1.1 API.
 
 This module lets you authenticate using Twitter in your Node.js applications.
 By plugging into Passport, Twitter authentication can be easily and
